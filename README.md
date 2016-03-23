@@ -1,9 +1,9 @@
+#Speed UP!!
 
-  
- This plugin helps you to watch youtube and other videos in 2x, 4x, 8x, 10x and so on...
+ This chrome plugin helps you to watch youtube and other videos in 2x, 4x, 8x, 10x and so on...
  
   
- Instructions for installing the chrome extension:
+#Instructions for installing the chrome extension:
  
  
  -> Download the extension as a .zip by looking for the “Download ZIP” button on the right-hand side of this page.
@@ -17,4 +17,4 @@
  -> Choose the location of unzipped folder!
  
  
- Cheers!
+#Cheers!
